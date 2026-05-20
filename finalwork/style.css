@@ -1,0 +1,88 @@
+body {
+    font-size:30px ;
+    
+    padding-left: 50px;
+
+}
+nav{
+    background-color: hsl(308, 75%, 60%);
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+    text-align: justify;
+    text-decoration-color: rgb(139, 0, 76);
+}
+
+
+h1{
+    color: rgb(226, 43, 226);
+    font-size: 25px;
+    font-style: italic;
+    padding-right:20px;
+    
+    
+}
+
+p{
+    font-size: 25px;
+    font-style: italic;
+    padding-right:20px;
+    align-content:20px;
+}
+
+img{
+    border-color: rgba(255, 0, 191, 0.705);
+    border: radius 2%;;
+    width: 400;
+    padding-right:20px;
+    gap: 30px;
+    
+    
+}
+
+li{
+    
+    font-size: 20px;
+
+    font-style: initial;
+    
+
+}
+  
+table
+
+    th{background-color: aliceblue;
+       font-size: 20px;
+       font-style: initial;
+        
+       
+} 
+    
+    
+    td{
+        background-color: rgb(240, 244, 248);
+        font-size: 20px;
+        font-style: initial;
+        
+  }
+
+form{
+
+    font-size: 30px;
+    font-style: oblique;
+    padding:right 20px;
+      
+
+}
+
+    
+footer{
+    color: rgb(226, 43, 226);
+    font-style: italic;
+    font-size: 20px;
+    gap: 20px;
+    
+    
+
+}
